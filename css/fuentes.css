@@ -1,0 +1,20 @@
+@font-face {
+	font-family:chinallight;
+	src: url(../fuenteshseq/chinal/ChinalLight_PERSONAL_USE.ttf);
+}
+@font-face {
+	font-family:chinal;
+	src: url(../fuenteshseq/chinal/ChinalMedium_PERSONAL_USE.ttf);
+}
+@font-face {
+	font-family:helvetica;
+	src: url(../fuenteshseq/Helvetica/HelveticaNeue-Roman.otf);
+}
+@font-face {
+	font-family:agency;
+	src: url(../fuenteshseq/agency/AGENCYR.ttf);
+}
+@font-face {
+	font-family:verdana;
+	src: url(../fuenteshseq/verdana.ttf);
+}
